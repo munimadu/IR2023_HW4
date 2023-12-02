@@ -1,0 +1,52 @@
+[
+    {
+        "Genre": "Crime Noir",
+        "Title": "Shadows of the Nightfall",
+        "Author": "Lauren Black"
+    },
+    {
+        "Genre": "Epic Poetry",
+        "Title": "Odyssey of the Forgotten",
+        "Author": "Henry Green"
+    },
+    {
+        "Genre": "Horror",
+        "Title": "Whispers in the Dark",
+        "Author": "Rebecca Harris"
+    },
+    {
+        "Genre": "Magical Realism",
+        "Title": "Dreams Under the Moonlight",
+        "Author": "Carlos Ruiz"
+    },
+    {
+        "Genre": "Autobiography",
+        "Title": "Echoes of My Path",
+        "Author": "Sarah Lee"
+    },
+    {
+        "Genre": "Young Adult Fiction",
+        "Title": "Lost in the Starlight",
+        "Author": "Peter Young"
+    },
+    {
+        "Genre": "Cyberpunk",
+        "Title": "Neon Futures",
+        "Author": "Rachel Wong"
+    },
+    {
+        "Genre": "Historical Drama",
+        "Title": "The Crown of Roses",
+        "Author": "William Brown"
+    },
+    {
+        "Genre": "Self-help",
+        "Title": "Embrace Your Journey",
+        "Author": "Emma Clarke"
+    },
+    {
+        "Genre": "Memoir",
+        "Title": "Steps Along the Road",
+        "Author": "David Miller"
+    }
+]
